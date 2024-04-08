@@ -14,6 +14,7 @@ public class Main {
         test(11);
     }
 
+
     static void test(int number) {
         switch (number) {
             case 1:
